@@ -9,8 +9,9 @@ public class nestedforloop {
         {
             for(int j=1;j<=i;j=j+1)// no of starts
             {
-                System.out.println("*");
+                System.out.print("*");
             }
+            System.out.println();
         }
         
     }
