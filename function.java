@@ -16,6 +16,6 @@ public class function {
 }
         */
         function f1 = new function();
-        f1.greeting();//=> function called so prints hello world
+        f1.greeting();//=> function called so prints hello world and hii
     }
 }
