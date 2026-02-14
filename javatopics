@@ -1,0 +1,44 @@
+1 Introduction
+2 Java setup
+ 3 How Java works
+ 4 Variables and data types
+ 5 User input
+ 6 Types of data
+ 7 If–else
+ 8 Compare two strings
+ 9 Else-if and nested if
+ 10 Ternary operator
+ 11 For loop
+ 12 Array
+ 13 Nested for loop
+ 14 While loop
+ 15 Do–while loop
+ 16 Classes and objects
+ 17 Functions
+ 18 Functions with parameters
+ 19 Return keyword
+ 20 Method parameters
+ 21 For-each loop in Java
+ 22 Eclipse installation
+ 23 Constructors
+ 24 Constructor overloading
+ 25 `this` keyword
+ 26 Inheritance
+ 27 Types of inheritance
+ 28 `super` keyword
+ 29 Abstract classes
+ 30 Access modifiers
+ 31 `static` keyword
+ 32 `final` keyword
+ 33 Interface
+ 34 Multiple inheritance
+ 35 Lambda expression
+ 36 Exception handling
+ 37 `finally` keyword
+ 38 `throw` keyword
+ 39 Custom exception handling
+ 40 Text file (file handling)
+ 41 Read from text file
+ 42 Threads
+ 43 Join methods in thread
+ 44 Threads using Runnable
