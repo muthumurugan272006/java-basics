@@ -1,0 +1,16 @@
+Inheritance is a concept where one class acquires the properties and methods of another class.
+classification of Inheritance
+1.single Inheritance
+2.multilevel Inheritance
+3.hierarchical Inheritance
+4.hybrid Inheritance
+
+multiple inheritance is not applicable in java
+because,
+The Diamond Problem is a situation in multiple inheritance where a class inherits from two classes that have the same method, causing confusion about which method to use.
+It is called a diamond problem because the inheritance structure looks like a diamond shape.
+      A
+     / \
+    B   C
+     \ /
+      D
