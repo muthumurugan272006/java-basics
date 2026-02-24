@@ -1,6 +1,19 @@
 //The final keyword in Java is used to restrict modification.
 class hi{
-    
+    final void disp(){
+        System.out.println("A");
+    }
+    class hii extends hi{
+        void disp{
+            // shows error because final method cannot be overridden
+        }
+    }
+}
+final class a{
+
+}
+class b extends a {
+    // shows error because final method cannot be inherit
 }
 public class statickeyword {
     public static void main(String[] args) {
